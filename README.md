@@ -1,4 +1,4 @@
-## **EEG & Physiological Signal Emotion and Stress Recognition**
+## **EEG and Physiological Signal Emotion and Stress Recognition**
 
 A end-to-end machine learning research project for emotion recognition from EEG signals (DEAP dataset) and stress detection from multimodal physiological signals (WESAD dataset). The project is structured as four sequential Jupyter notebooks covering preprocessing, feature engineering, model training, and evaluation.
 
